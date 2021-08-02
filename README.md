@@ -1,2 +1,2 @@
 # recursion_practice
-practicing recursion with merge sort and fibonacci sequence
+Practice recursion with merge sort and Fibonacci sequence
