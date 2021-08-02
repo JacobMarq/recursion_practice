@@ -9,7 +9,7 @@
 
 def fibs(i, f=[])
   for n in 0...i
-    n < 2? f << n : f << (f[n-1] + f[n-2])
+    n < 2? f << n : f << f[n-1] + f[n-2]
   end
   return f
 end
